@@ -56,6 +56,9 @@ $(function () {
   }
 
   //calling functions
+hourlyColor();
+textEntry();
+refreshColor();
  
  
   //
